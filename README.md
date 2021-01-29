@@ -20,13 +20,21 @@ Medified is an instant medical checkup service. It will predict the chances of g
 
 # Libraries&Tech stacks Used:
 
-1)Sci-kit Learn
+  1)Sci-kit Learn
 
-2)Python Flask
+  2)Python Flask
 
-3)Numpy&Pandas
+  3)Numpy&Pandas
 
-4)HTML, CSS& Bootstrap
+  4)HTML, CSS& Bootstrap
+
+# Dataset used
+
+       
+1) [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
+2) [Diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database): Pima Indian Diabetes Dataset
+3) [Heart](https://www.kaggle.com/ronitf/heart-disease-uci): Heart Disease Dataset
+4) [Kidney](https://www.kaggle.com/mansoordaku/ckdisease): Chronic Kidney Disease Dataset
 
 
 # Steps used for Deployment:
@@ -42,20 +50,6 @@ Medified is an instant medical checkup service. It will predict the chances of g
 5) Created a chatbot with  [Dialougeflow](https://dialogflow.cloud.google.com/) and deployed it using [kommunitcate](https://www.kommunicate.io/product/dialogflow-integration)
 
 6) Deployed all ML models in Heroku and Hosted the website in Github pages.
-
-
-# Dataset used
-
-       
-        1) [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
-
-        2) [Diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database): Pima Indian Diabetes Dataset
-
-        3) [Heart](https://www.kaggle.com/ronitf/heart-disease-uci): Heart Disease Dataset
-
-        4) [Kidney](https://www.kaggle.com/mansoordaku/ckdisease): Chronic Kidney Disease Dataset
-
-
 
 
 # Project Created by:
